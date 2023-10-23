@@ -1,9 +1,11 @@
-function App() {
-  return (
-    <div className="jkl">
-      <p>Hello, world</p>
-    </div>
-  )
-}
+import CarInsurancePage from "./pages/car-insurance";
+import { FC } from "react";
+import "./App.css";
 
-export default App
+const App: FC = () => (
+  <div className="jkl app flex flex-col">
+    <CarInsurancePage />
+  </div>
+)
+
+export default App;
