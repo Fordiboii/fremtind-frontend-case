@@ -1,5 +1,4 @@
-import { useState, FC, ChangeEventHandler, useRef } from "react";
-import { useScrollIntoView } from "@fremtind/jkl-react-hooks";
+import { useState, FC, ChangeEventHandler } from "react";
 import { Select } from "@fremtind/jkl-select-react";
 import { TextInput } from "@fremtind/jkl-text-input-react";
 import { useForm } from "react-hook-form";
