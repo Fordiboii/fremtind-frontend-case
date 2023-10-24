@@ -1,6 +1,5 @@
-# Fremtind frontend case
-Solution to Fremtind's frontend case.
-Uses their design system, [Jøkul](jokul.fremtind.no).
+# Frontend case
+Solution to a frontend test case.
 
 ## React + TypeScript + Vite
 
