@@ -1,5 +1,8 @@
 # Frontend case
-Solution to a frontend test case.
+
+To get started:
+1. `yarn` to install
+2. `yarn dev` to spin up local environment
 
 ## React + TypeScript + Vite
 
