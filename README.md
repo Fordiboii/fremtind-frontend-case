@@ -1,4 +1,8 @@
-# React + TypeScript + Vite
+# Fremtind frontend case
+Solution to Fremtind's frontend case.
+Uses their design system, [Jøkul](jokul.fremtind.no).
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
