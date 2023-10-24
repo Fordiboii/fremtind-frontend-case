@@ -1,0 +1,10 @@
+.nameGroup {
+  display: flex;
+  flex-direction: row;
+}
+
+@media (width <= 680px)  {
+  .nameGroup {
+    flex-direction: column;
+  }
+}

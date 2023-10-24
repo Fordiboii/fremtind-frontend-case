@@ -5,3 +5,10 @@
   padding-right: 8em;
   padding-left: 8em;
 }
+
+
+@media (width <= 680px)  {
+  .app {
+    padding: 2em;
+  }
+}
